@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**aSampo/aSampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend developer, I am currently working with [Vue](https://vuejs.org/) 💚
+<br/>
+Learning [React](https://reactjs.org) 💙
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/andres-sampo/">
+<img align="left" alt="Andres Sampo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What i'm up to
+
+- 🔭 I’m currently working @ [IncluIT](https://incluit.com/).
+- ⚡ I’m currently working with [Vue](https://vuejs.org/) (and a bit of .NET core).
+- 🌱 I’m currently learning [React](https://reactjs.org) and more technologies!
+<br />
