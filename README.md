@@ -4,9 +4,8 @@
 <br>
 
 - 🙋🏻‍♂️ Developer since 2019.
-- 🔭 I’m currently working in Bitlogic.
+- 🔭 I’m currently working at Justo.
 - 🤓 React & Typescript 🫶🏻.
-- 🧩 Also i worked with Angular & Vue.
 
 ---
 
